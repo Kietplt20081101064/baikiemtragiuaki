@@ -2,7 +2,7 @@ package quanlynhadat;
  
 public class GiaoDichNha extends GiaoDich {
     private String loaiNha, diaChi;
-    private int choose;
+    private choose
    
   public GiaoDichNha() {    
     
