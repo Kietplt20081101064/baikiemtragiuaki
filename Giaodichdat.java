@@ -1,4 +1,4 @@
-package baitapquanlynhadat;
+package quanlynhadat;
  
 public class GiaoDichDat extends GiaoDich {
     private String loaiDat;
