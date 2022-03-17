@@ -29,8 +29,7 @@ public class Main {
         for (int i = 0; i < soGiaoDichNha; i++) {
             System.out.println("Nhập thông tin giao dịch nhà thứ " + (i + 1) + ":");
             GiaoDichNha giaoDichNha = new GiaoDichNha();
-            giaoDichNha.nhap();
-            arrGiaoDichNha.add(giaoDichNha);
+            
         }
          
         System.out.println("---Thông tin các giao dịch đất---");
